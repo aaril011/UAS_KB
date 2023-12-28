@@ -1,4 +1,4 @@
-# Dataset :
+# Dataset Skin Cancer :
 https://drive.google.com/drive/folders/1GBb6c0FTHMItule4zrFV8XU1PGTgdtAx?usp=sharing
 
 # Kelompok :
